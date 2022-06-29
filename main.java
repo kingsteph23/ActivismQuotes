@@ -11,6 +11,8 @@ public class main {
         "\n(3)Africa"+
         "\n(4)Asia");
 
+
+        
         userchoice = scan.nextLine();
 
         if(userchoice.equals("1")){
