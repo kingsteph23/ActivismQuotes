@@ -21,7 +21,9 @@ System.out.println();
               "\n"+
               "\n5. So while the president has a say in what goes in the country, congress(senate/house of reps), have even a greater and more direct say of what goes on in the country(and in our lives as well)."+
               "\n"+
-              "\n6. So please,if you are eligible to vote, please vote in this years midterms(elect representatives, senators, governess,etc ), to let your issues be heard on a national/state/local scale.");
+              "\n6. So please,if you are eligible to vote, please vote in this years midterms(elect representatives, senators, governess,etc ), to let your issues be heard on a national/state/local scale."+
+              "\n"+
+              "\nAnd believe it or not, voting has much more power/importance than you think......");
 
                 
 }
