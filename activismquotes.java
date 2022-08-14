@@ -1,7 +1,25 @@
 import java.util.*;
 public class activismquotes {
     
-   
+
+    // call your congressman/woman
+public static void midterms(){
+
+    System.out.println("For those in the US, if you want to see some change in your community, state, and country...Please:"+
+    "\nContact your senators: https://www.senate.gov/states/statesmap.htm"+
+    "\nContact your US representative: https://www.house.gov/representatives ");
+
+
+    System.out.println("Also, please remember the following:"+
+             "\nDespite the many circumstances/issues that are occurring/have occurred in the country:inflation, gas prices, climate issues, and the many other political issues..."+
+              "\nPlease note that the president can only enforce so much power(overdoing power = abuse of power). They don't really have that big of a in matters such as legislation(especially when negotiating and creating laws"+
+              "\nA presidents' is mainly to: veto/sign bills, enforce laws congress passes,act as their parties leader, and mainly oversee the federal government(think FBI, Dept of State, Dept of Justice, etc)."+
+              "\nMuch of the major laws that affect us on a day to day basis on normally done by people in congress(senate/house of reps), who create laws that impact us directly."+
+              "\nSo while the president has a say in what goes in the country, congress(senate/house of reps), have even a greater and more direct say of what goes on."+
+              "\nSo please,if you are eligible to vote, please vote in this years midterms(elect represenatives, senators, and governers,), to let your issues be heard ");
+
+                
+}
 //Asian activist
 public static void asianactivists(){
     ArrayList<String> asianactivists = new ArrayList<>();
